@@ -1,4 +1,5 @@
-// Count positive, negative, and zero elements in an array.
+//Q60: Count positive, negative, and zero elements in an array.
+    
 #include <stdio.h>
 
 int main() {
