@@ -1,4 +1,5 @@
-// Find the sum of array elements.
+//Q57: Find the sum of array elements.
+
 #include <stdio.h>
 
 int main() {
