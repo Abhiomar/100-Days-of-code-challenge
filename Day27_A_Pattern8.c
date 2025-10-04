@@ -1,6 +1,4 @@
-/*
-
-Write a program to print the following pattern:
+//Q53: Write a program to print the following pattern:
 *
 ***
 *****
@@ -10,8 +8,6 @@ Write a program to print the following pattern:
 *****
 ***
 *
-
-*/
 
 #include <stdio.h>
 
