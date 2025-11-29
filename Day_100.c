@@ -1,4 +1,4 @@
-//Q150:Use pointer to struct to modify and display data using -> operator.
+//Q150:Use pointer to struct to modify and display data using -> operator..
 #include <stdio.h>
 #include <stdlib.h>
 
